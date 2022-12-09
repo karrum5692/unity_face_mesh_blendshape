@@ -32,9 +32,6 @@ CI | Github
 ## 프로젝트 기능 구현
 
 <br>
-![ezgif-2-5991812738](https://user-images.githubusercontent.com/82930760/201014395-2211167f-d8aa-47a8-9836-dbacdb596371.gif)
-
-<br>
 ![mesh](https://user-images.githubusercontent.com/82930760/206600724-0fdf0704-b90b-43a1-8135-e7306bbb4490.gif)
 
 <br>
