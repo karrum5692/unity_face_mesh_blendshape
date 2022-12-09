@@ -14,7 +14,6 @@
 ------------
 
 ## 개요
-![mesh (1)](https://user-images.githubusercontent.com/82930760/206602368-1a1cb2f5-1a37-4a82-ada5-b945bd30961b.gif)
 
 
 ## 사용기술 및 개발환경
@@ -32,7 +31,6 @@ CI | Github
 
 ## 프로젝트 기능 구현
 
-<br>
 ![mesh](https://user-images.githubusercontent.com/82930760/206600724-0fdf0704-b90b-43a1-8135-e7306bbb4490.gif)
 
 
