@@ -10,7 +10,9 @@
 1. [개요](#개요)
 2. [사용기술 및 개발환경](#사용기술-및-개발환경)
 3. [프로젝트 기능 구현](#프로젝트-기능-구현)
-4. [Reference](#Reference)
+4. [실행방법](#실행-방법) 
+5.[Reference](#Reference)
+
 ------------
 
 ## 개요
@@ -32,6 +34,14 @@ CI | Github
 ## 프로젝트 기능 구현
 
 ![mesh](https://user-images.githubusercontent.com/82930760/206600724-0fdf0704-b90b-43a1-8135-e7306bbb4490.gif)
+
+
+##실행방법
+
+1. [Anaconda](https://www.anaconda.com/) 설치
+2. Anaconda 설치 후 Anaconda prompt에서 Mediapipe, Opencv Install
+3. [얼굴 인식 모델](https://drive.google.com/file/d/144kDEWqnabliGrV4JlCu7jE6z-ltQsBf/view)과 [유니티 빋드 파일](https://drive.google.com/file/d/1O_V6k-aVkiscq3uUtIc5P4ZJpuvg5U1M/view?usp=sharing) 다운
+4. charactest.exe 실행 후 Anaconda prompt에서 main.py 실행
 
 
 
