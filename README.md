@@ -41,7 +41,7 @@ CI | Github
 
 1. [Anaconda](https://www.anaconda.com/) 설치
 2. Anaconda 설치 후 Anaconda prompt에서 Mediapipe, Opencv Install
-3. [얼굴 인식 모델](https://drive.google.com/file/d/144kDEWqnabliGrV4JlCu7jE6z-ltQsBf/view)과 [유니티 빋드 파일](https://drive.google.com/file/d/1O_V6k-aVkiscq3uUtIc5P4ZJpuvg5U1M/view?usp=sharing) 다운
+3. [얼굴 인식 모델](https://drive.google.com/file/d/144kDEWqnabliGrV4JlCu7jE6z-ltQsBf/view)과 [유니티 빌드 파일](https://drive.google.com/file/d/1O_V6k-aVkiscq3uUtIc5P4ZJpuvg5U1M/view?usp=sharing) 다운
 4. charactest.exe 실행 후 Anaconda prompt에서 main.py 실행
 
 
